@@ -1,0 +1,66 @@
+.cabecalho {
+    background-color: var(--cor-de-fundo);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5em 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__logo {
+    padding: 0 7em;
+}
+
+.condainer__lista {
+    display: flex;
+}
+
+.lista-menu {
+    display: flex;
+}
+
+.lista-menu__link {
+    font-size: 16px;
+    font-family: "Inter";
+    color: var(--cinza-p);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0 1.5em 0em 0;
+}
+
+.container__entrar{
+    display: flex;
+    align-items: center;
+    padding: 0 7em;
+    
+}
+
+.entrar {
+    font-size: 16px;
+    font-family: "Inter";
+    color: var(--cinza-p);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0 1.5em 0 0;
+}
+
+.Cadastrar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--vermelho);
+    font-size: 16px;
+    font-family: "Inter";
+    color: var(--cor-de-fundo);
+    text-decoration: none;
+    font-weight: 500;
+    border: 2px solid var(--vermelho);
+    border-radius: 8px;
+    width: 7em;
+    height: 3em;
+    
+}

@@ -1,0 +1,19 @@
+@import url("styles/header.css");
+@import url("styles/main.css");
+@import URL("styles/footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+:root {
+    --cor-de-fundo: #ffffff;
+    --cinza-p: #667085;
+    --vermelho: #8E2424;
+    --preto: #101828;
+    --rosa: #feebe7;
+    --cinza-borda: #EAECF0;
+    --rosa-fundo: #FDF8F8;
+    --cinza-fundo: #F9FAFB;
+
+    
+
+}
